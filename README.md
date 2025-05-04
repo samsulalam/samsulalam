@@ -14,7 +14,7 @@
 
 Are you interested in the project I created and want to help keep it running? You can support me by becoming a sponsor! Your contributions will greatly assist in the development and maintenance of this project.
 
-[![Sponsor Me](https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge)](https://github.com/sponsors/ridwaanhall/)
+[![Sponsor Me](https://img.shields.io/badge/-Sponsor%20Me-blue?style=for-the-badge)](https://github.com/sponsors/samsulalam/)
 
 Thank you for supporting my work! Together, we can create something amazing. 🚀
 
@@ -39,15 +39,18 @@ Thank you for supporting my work! Together, we can create something amazing. �
 
 | Category                | Technologies                                                                 |
 |-------------------------|------------------------------------------------------------------------------|
+| **Networking**          | ![Cisco](https://img.shields.io/badge/-Cisco-FFFFFF?style=flat&logo=cisco) ![MikroTik](https://img.shields.io/badge/-MikroTik-000000?style=flat&logo=mikrotik) ![OpenStack](https://img.shields.io/badge/-OpenStack-ED1944?style=flat&logo=OpenStack) ![VMWare](https://img.shields.io/badge/-VMWare-189EFF?style=flat&logo=VMWare) |
 | **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) |
 | **Web Development**     | ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css) ![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress) ![Material-UI](https://img.shields.io/badge/-Material--UI-05122A?style=flat&logo=material-ui) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel) |
 | **Machine Learning & AI** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch) ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn) |
 | **Databases**           | ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite) ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql) |
 | **Version Control**     | ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git) ![Git](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github) |
 | **APIs**                | ![Django REST Framework](https://img.shields.io/badge/-DRF-05122A?style=flat&logo=django) ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman) ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=graphql) |
+| **SysAdmin**            | ![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat&logo=debian) ![Ubuntu](https://img.shields.io/badge/-Ubuntu-A81D33?style=flat&logo=ubuntu) |
 | **PaaS**                | ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel) ![Netlify](https://img.shields.io/badge/-Netlify-05122A?style=flat&logo=netlify) |
 | **Web Server**          | ![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx) |
 | **Code Editor**        | ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code) ![JetBrains](https://img.shields.io/badge/-JetBrains-05122A?style=flat&logo=jetbrains) |
+
 
 <!-- ## 📊 GitHub and Wakatime Stats
 
