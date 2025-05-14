@@ -20,10 +20,10 @@ Thank you for supporting my work! Together, we can create something amazing. �
 
 ## 😄 About Me
 
-- 👨‍🏫 Vocational teacher in **Computer and Network Engineering (CNE)**
+- 👨‍🏫 Vocational teacher in **SMKN 1 Sagaranten**
 - 🎓 Pursuing a **Master’s Degree in Data Science**  
-- 🏢 Commissioner at a **Technology & Digital Development Company**
-- 💡 Passionate about **AI in education**, **LMS development**, and **tech-driven curriculum**
+- 🏢 Commissioner at a **PT. Midas Reka Telesis**
+- 💡 Passionate about **AI and Data Scientist**, **Routing & Switching**, and **IT Network System Administration**
 - 📍 Based in Indonesia
 
 <!-- ## 📬 Let's get in touch! Feel free to DM me for discussion or just say hi!
@@ -39,7 +39,7 @@ Thank you for supporting my work! Together, we can create something amazing. �
 
 | Category                | Technologies                                                                 |
 |-------------------------|------------------------------------------------------------------------------|
-| **Networking**          | ![Cisco](https://img.shields.io/badge/-Cisco-FFFFFF?style=flat&logo=cisco) ![MikroTik](https://img.shields.io/badge/-MikroTik-000000?style=flat&logo=mikrotik) ![OpenStack](https://img.shields.io/badge/-OpenStack-ED1944?style=flat&logo=OpenStack) ![VMWare](https://img.shields.io/badge/-VMWare-189EFF?style=flat&logo=VMWare) |
+| **Networking**          | ![Cisco](https://img.shields.io/badge/-Cisco-000000?style=flat&logo=cisco) ![MikroTik](https://img.shields.io/badge/-MikroTik-000000?style=flat&logo=mikrotik) ![OpenStack](https://img.shields.io/badge/-OpenStack-000000?style=flat&logo=OpenStack) ![VMWare](https://img.shields.io/badge/-VMWare-000000?style=flat&logo=VMWare) |
 | **Programming Languages** | ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php) ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) |
 | **Web Development**     | ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask) ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js) ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css) ![Bulma](https://img.shields.io/badge/-Bulma-05122A?style=flat&logo=bulma) ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js) ![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress) ![Material-UI](https://img.shields.io/badge/-Material--UI-05122A?style=flat&logo=material-ui) ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript) ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel) |
 | **Machine Learning & AI** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow) ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch) ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras) ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-05122A?style=flat&logo=scikit-learn) |
